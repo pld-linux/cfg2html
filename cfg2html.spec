@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Config to HTML is the "swiss army knife" for the ASE, CE, sysadmin
-etc. It helps to get the nessary informations to plan an update, to
-performe basic trouble shooting or performance analysis.
+etc. It helps to get the nessary information to plan an update, to
+perform basic troubleshooting or performance analysis.
 
 As a bonus cfg2html creates a nice HTML and plain ASCII documentation
 from Linux System, Cron and At, installed Hardware, installed
