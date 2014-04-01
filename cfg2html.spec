@@ -1,12 +1,12 @@
 Summary:	Tool to collect Linux system configuration into a HTML and text file
 Name:		cfg2html
-Version:	2.50
+Version:	2.86
 Release:	1
 License:	Unknown
 Group:		Applications/System
+Source0:	http://www.cfg2html.com/%{name}-linux-%{version}-20140319_all.zip
+# Source0-md5:	ccd0b66c05e51dab3d7a7eb4b760fd59
 URL:		http://www.cfg2html.com/
-Source0:	http://www.cfg2html.com/%{name}-linux-%{version}-20120601_all.zip
-# Source0-md5:	a3d2991a515f5ed5f23ea0b7dda8f82c
 BuildRequires:	unzip
 Obsoletes:	cfg2html-linux < 2.50-1
 BuildArch:	noarch
